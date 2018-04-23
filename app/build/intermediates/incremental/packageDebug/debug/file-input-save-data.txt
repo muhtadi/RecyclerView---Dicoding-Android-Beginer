@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Apr 23 13:41:21 ICT 2018
+#Mon Apr 23 13:52:24 ICT 2018
 2.base=E\:\\Android Pemula - Dicoding\\RecyclerViewPresident\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\15
 5.set=DEX
 0.path=classes.dex
