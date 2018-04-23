@@ -88,6 +88,10 @@
         "source": "C:\\Users\\Muhtadi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\080e73424f1039a2c6f6ccce29dc818d\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
     },
     {
+        "merged": "E:\\Android Pemula - Dicoding\\RecyclerViewPresident\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_detail_president.xml.flat",
+        "source": "E:\\Android Pemula - Dicoding\\RecyclerViewPresident\\app\\src\\main\\res\\layout\\activity_detail_president.xml"
+    },
+    {
         "merged": "E:\\Android Pemula - Dicoding\\RecyclerViewPresident\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
         "source": "C:\\Users\\Muhtadi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\080e73424f1039a2c6f6ccce29dc818d\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
@@ -434,6 +438,10 @@
     {
         "merged": "E:\\Android Pemula - Dicoding\\RecyclerViewPresident\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\Muhtadi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\080e73424f1039a2c6f6ccce29dc818d\\res\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android Pemula - Dicoding\\RecyclerViewPresident\\app\\build\\intermediates\\res\\merged\\debug\\layout-v26_activity_detail_president.xml.flat",
+        "source": "E:\\Android Pemula - Dicoding\\RecyclerViewPresident\\app\\src\\main\\res\\layout-v26\\activity_detail_president.xml"
     },
     {
         "merged": "E:\\Android Pemula - Dicoding\\RecyclerViewPresident\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_btn_colored_borderless_text_material.xml.flat",

@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\Android Pemula - Dicoding\RecyclerViewPresident\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from E:\Android Pemula - Dicoding\RecyclerViewPresident\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from E:\Android Pemula - Dicoding\RecyclerViewPresident\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from E:\Android Pemula - Dicoding\RecyclerViewPresident\app\src\main\AndroidManifest.xml:2:1-23:12
+ADDED from E:\Android Pemula - Dicoding\RecyclerViewPresident\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from E:\Android Pemula - Dicoding\RecyclerViewPresident\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from E:\Android Pemula - Dicoding\RecyclerViewPresident\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from E:\Android Pemula - Dicoding\RecyclerViewPresident\app\src\main\AndroidManifest.xml:2:1-24:12
 MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Muhtadi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\df9ffc35c3e376746a4f54c2e692e3af\AndroidManifest.xml:17:1-28:12
 MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\Muhtadi\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\ede9a014e761e914a1ca1d7d6f484b1d\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Muhtadi\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\cc6ef82ce7324ddb8ab4c9ea1f02e744\AndroidManifest.xml:17:1-28:12
@@ -18,20 +18,20 @@ MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Muhtadi\.
 MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Muhtadi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\ac6b9cb1fca9eec92a59e1c76aed6d6e\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Muhtadi\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\70a5532808fd8161cbd6d0dbbaf92aba\AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Muhtadi\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\6ab7812a0c1f068087cbc8e8cc8a9e8c\AndroidManifest.xml:17:1-30:12
-INJECTED from E:\Android Pemula - Dicoding\RecyclerViewPresident\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from E:\Android Pemula - Dicoding\RecyclerViewPresident\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from E:\Android Pemula - Dicoding\RecyclerViewPresident\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from E:\Android Pemula - Dicoding\RecyclerViewPresident\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from E:\Android Pemula - Dicoding\RecyclerViewPresident\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from E:\Android Pemula - Dicoding\RecyclerViewPresident\app\src\main\AndroidManifest.xml:2:1-24:12
 	package
 		ADDED from E:\Android Pemula - Dicoding\RecyclerViewPresident\app\src\main\AndroidManifest.xml:3:5-56
 		INJECTED from E:\Android Pemula - Dicoding\RecyclerViewPresident\app\src\main\AndroidManifest.xml
 		INJECTED from E:\Android Pemula - Dicoding\RecyclerViewPresident\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from E:\Android Pemula - Dicoding\RecyclerViewPresident\app\src\main\AndroidManifest.xml
-		ADDED from E:\Android Pemula - Dicoding\RecyclerViewPresident\app\src\main\AndroidManifest.xml:2:1-23:12
+		ADDED from E:\Android Pemula - Dicoding\RecyclerViewPresident\app\src\main\AndroidManifest.xml:2:1-24:12
 		INJECTED from E:\Android Pemula - Dicoding\RecyclerViewPresident\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from E:\Android Pemula - Dicoding\RecyclerViewPresident\app\src\main\AndroidManifest.xml
-		ADDED from E:\Android Pemula - Dicoding\RecyclerViewPresident\app\src\main\AndroidManifest.xml:2:1-23:12
+		ADDED from E:\Android Pemula - Dicoding\RecyclerViewPresident\app\src\main\AndroidManifest.xml:2:1-24:12
 		INJECTED from E:\Android Pemula - Dicoding\RecyclerViewPresident\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from E:\Android Pemula - Dicoding\RecyclerViewPresident\app\src\main\AndroidManifest.xml:2:11-69
@@ -40,7 +40,7 @@ ADDED from E:\Android Pemula - Dicoding\RecyclerViewPresident\app\src\main\Andro
 	android:name
 		ADDED from E:\Android Pemula - Dicoding\RecyclerViewPresident\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from E:\Android Pemula - Dicoding\RecyclerViewPresident\app\src\main\AndroidManifest.xml:7:5-21:19
+ADDED from E:\Android Pemula - Dicoding\RecyclerViewPresident\app\src\main\AndroidManifest.xml:7:5-22:19
 MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Muhtadi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\df9ffc35c3e376746a4f54c2e692e3af\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Muhtadi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\df9ffc35c3e376746a4f54c2e692e3af\AndroidManifest.xml:22:5-26:19
 MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\Muhtadi\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\ede9a014e761e914a1ca1d7d6f484b1d\AndroidManifest.xml:9:5-20
@@ -95,6 +95,10 @@ category#android.intent.category.LAUNCHER
 ADDED from E:\Android Pemula - Dicoding\RecyclerViewPresident\app\src\main\AndroidManifest.xml:18:17-77
 	android:name
 		ADDED from E:\Android Pemula - Dicoding\RecyclerViewPresident\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.example.muhtadi.recyclerviewpresident.DetailPresident
+ADDED from E:\Android Pemula - Dicoding\RecyclerViewPresident\app\src\main\AndroidManifest.xml:21:9-62
+	android:name
+		ADDED from E:\Android Pemula - Dicoding\RecyclerViewPresident\app\src\main\AndroidManifest.xml:21:19-50
 uses-sdk
 INJECTED from E:\Android Pemula - Dicoding\RecyclerViewPresident\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from E:\Android Pemula - Dicoding\RecyclerViewPresident\app\src\main\AndroidManifest.xml
