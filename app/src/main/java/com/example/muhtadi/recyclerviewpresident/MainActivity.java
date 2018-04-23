@@ -1,5 +1,6 @@
 package com.example.muhtadi.recyclerviewpresident;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.LinearLayoutManager;
@@ -42,6 +43,11 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void showSelectedPresident(President president){
-        Toast.makeText(this, "Kamu memilih "+president.getName(), Toast.LENGTH_SHORT).show();
+        //Toast.makeText(this, "Kamu memilih "+president.getName(), Toast.LENGTH_SHORT).show();
+        Intent intent = new Intent(this, DetailPresident.class);
+        intent.putExtra("name", president.getName());
+        intent.putExtra("remarks", president.getRemarks());
+        intent.putExtra("photo", president.getPhoto());
+        startActivity(intent);
     }
 }
